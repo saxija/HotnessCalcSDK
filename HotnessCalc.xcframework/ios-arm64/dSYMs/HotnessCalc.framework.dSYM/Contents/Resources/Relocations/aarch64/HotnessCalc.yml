@@ -1,0 +1,23 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sasa/Library/Developer/Xcode/DerivedData/HotnessCalc-dcnmyjmjgioxqmgnolcrcghsuxgy/Build/Intermediates.noindex/ArchiveIntermediates/HotnessCalc/InstallationBuildProductsLocation/Library/Frameworks/HotnessCalc.framework/HotnessCalc'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x5414B, size: 0x8, addend: 0x0, symName: _HotnessCalcVersionString, symObjAddr: 0x0, symBinAddr: 0xB3E0, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x54180, size: 0x8, addend: 0x0, symName: _HotnessCalcVersionNumber, symObjAddr: 0x30, symBinAddr: 0xB410, symSize: 0x0 }
+  - { offsetInCU: 0x65, offset: 0x541FB, size: 0x8, addend: 0x0, symName: '_$s11HotnessCalc0A10ControllerC11viewDidLoadyyFTo', symObjAddr: 0x54, symBinAddr: 0x8020, symSize: 0x5C }
+  - { offsetInCU: 0x109, offset: 0x5429F, size: 0x8, addend: 0x0, symName: '_$s11HotnessCalc0A10ControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo', symObjAddr: 0x544, symBinAddr: 0x8510, symSize: 0xAC }
+  - { offsetInCU: 0x17E, offset: 0x54314, size: 0x8, addend: 0x0, symName: '_$s11HotnessCalc0A10ControllerC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x684, symBinAddr: 0x8650, symSize: 0x44 }
+  - { offsetInCU: 0x1D7, offset: 0x5436D, size: 0x8, addend: 0x0, symName: '_$s11HotnessCalc0A10ControllerC16interpolateColor4from2to10percentageSo7UIColorCAI_AI12CoreGraphics7CGFloatVtFTf4nnnd_n', symObjAddr: 0x7E0, symBinAddr: 0x87AC, symSize: 0x134 }
+  - { offsetInCU: 0x40A, offset: 0x545A0, size: 0x8, addend: 0x0, symName: '_$s11HotnessCalc0A10ControllerC18colorForPercentageySo7UIColorCSiFTf4nd_n', symObjAddr: 0x914, symBinAddr: 0x88E0, symSize: 0x150 }
+  - { offsetInCU: 0x4FF, offset: 0x54695, size: 0x8, addend: 0x0, symName: '_$s11HotnessCalc0A10ControllerCMa', symObjAddr: 0x34, symBinAddr: 0x8000, symSize: 0x20 }
+  - { offsetInCU: 0x559, offset: 0x546EF, size: 0x8, addend: 0x0, symName: '_$ss29getContiguousArrayStorageType3fors01_bcD0CyxGmxm_tlFSo18NSLayoutConstraintC_Tgm5', symObjAddr: 0x704, symBinAddr: 0x86D0, symSize: 0x54 }
+  - { offsetInCU: 0x607, offset: 0x5479D, size: 0x8, addend: 0x0, symName: '_$sSo18NSLayoutConstraintCMa', symObjAddr: 0xA64, symBinAddr: 0x8A30, symSize: 0x3C }
+  - { offsetInCU: 0x61B, offset: 0x547B1, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0xAA0, symBinAddr: 0x8A6C, symSize: 0x40 }
+  - { offsetInCU: 0x897, offset: 0x54A2D, size: 0x8, addend: 0x0, symName: '_$s11HotnessCalc0A10ControllerC9setupView33_51C9CABCDA04F35114F6A74CFAAFC788LLyyF', symObjAddr: 0xB0, symBinAddr: 0x807C, symSize: 0x394 }
+  - { offsetInCU: 0xA42, offset: 0x54BD8, size: 0x8, addend: 0x0, symName: '_$s11HotnessCalc0A10ControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfC', symObjAddr: 0x444, symBinAddr: 0x8410, symSize: 0x7C }
+  - { offsetInCU: 0xA56, offset: 0x54BEC, size: 0x8, addend: 0x0, symName: '_$s11HotnessCalc0A10ControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc', symObjAddr: 0x4C0, symBinAddr: 0x848C, symSize: 0x84 }
+  - { offsetInCU: 0xAE6, offset: 0x54C7C, size: 0x8, addend: 0x0, symName: '_$s11HotnessCalc0A10ControllerC5coderACSgSo7NSCoderC_tcfC', symObjAddr: 0x5F0, symBinAddr: 0x85BC, symSize: 0x44 }
+  - { offsetInCU: 0xAFA, offset: 0x54C90, size: 0x8, addend: 0x0, symName: '_$s11HotnessCalc0A10ControllerC5coderACSgSo7NSCoderC_tcfc', symObjAddr: 0x634, symBinAddr: 0x8600, symSize: 0x50 }
+  - { offsetInCU: 0xB46, offset: 0x54CDC, size: 0x8, addend: 0x0, symName: '_$s11HotnessCalc0A10ControllerCfD', symObjAddr: 0x6C8, symBinAddr: 0x8694, symSize: 0x30 }
+  - { offsetInCU: 0xB97, offset: 0x54D2D, size: 0x8, addend: 0x0, symName: '_$sSGsE4next10upperBoundqd__qd___ts17FixedWidthIntegerRd__SURd__lFs27SystemRandomNumberGeneratorV_SuTg5', symObjAddr: 0x758, symBinAddr: 0x8724, symSize: 0x88 }
+...

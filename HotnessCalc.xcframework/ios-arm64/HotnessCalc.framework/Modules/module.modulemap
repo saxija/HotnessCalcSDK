@@ -1,0 +1,6 @@
+framework module HotnessCalc {
+  umbrella header "HotnessCalc.h"
+  export *
+
+  module * { export * }
+}
